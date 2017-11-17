@@ -20,3 +20,4 @@
     
     ##What are some advantages to using a Hash Tables over an array in JavaScript?
         
+Quick Access.
